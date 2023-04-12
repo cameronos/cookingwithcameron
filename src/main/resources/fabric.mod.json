@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "cookingwithcameron",
+  "version": "${version}",
+
+  "name": "Cooking with Cameron",
+  "description": "Adds a plethora of new food and animals into the game to eat and fulfill your taste-buds.",
+  "authors": [
+    "CameronOS"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.cameronos.cookingwithcameron.CookingWithCameron"
+    ]
+  },
+  "mixins": [
+    "cookingwithcameron.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.18.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
