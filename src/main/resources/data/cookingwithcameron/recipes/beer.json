@@ -1,0 +1,14 @@
+{
+  "type": "cookingwithcameron:distillery",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "output": {
+    "item": "cookingwithcameron:beer"
+  }
+}

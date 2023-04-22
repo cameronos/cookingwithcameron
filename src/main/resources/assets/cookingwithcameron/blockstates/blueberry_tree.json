@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "age=0": { "model": "cookingwithcameron:block/blueberry_tree0" },
+    "age=1": { "model": "cookingwithcameron:block/blueberry_tree1" },
+    "age=2": { "model": "cookingwithcameron:block/blueberry_tree2" },
+    "age=3": { "model": "cookingwithcameron:block/blueberry_tree3" },
+    "age=4": { "model": "cookingwithcameron:block/blueberry_tree4" },
+    "age=5": { "model": "cookingwithcameron:block/blueberry_tree5" },
+    "age=6": { "model": "cookingwithcameron:block/blueberry_tree6" },
+    "age=7": { "model": "cookingwithcameron:block/blueberry_tree7" }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "cookingwithcameron:block/toaster" },
+    "facing=east": { "model": "cookingwithcameron:block/toaster", "y": 90 },
+    "facing=south": { "model": "cookingwithcameron:block/toaster", "y": 180 },
+    "facing=west": { "model": "cookingwithcameron:block/toaster", "y": 270 }
+  }
+}

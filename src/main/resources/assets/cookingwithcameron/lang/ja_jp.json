@@ -1,0 +1,53 @@
+{
+  "item.cookingwithcameron.foil": "フォイルラッパー",
+  "item.cookingwithcameron.salt": "塩",
+  "item.cookingwithcameron.chocolate_bar": "チョコレートバー",
+  "item.cookingwithcameron.oreo": "オレオクッキー",
+  "item.cookingwithcameron.kitchen_knife": "キッチンナイフ",
+  "item.cookingwithcameron.wine": "ワインボトル",
+  "item.cookingwithcameron.wine_glass": "ワイングラス",
+  "item.cookingwithcameron.beer": "ビールジョッキ",
+  "item.cookingwithcameron.grape": "グレープ",
+  "item.cookingwithcameron.grape_seeds": "グレープの種",
+  "item.cookingwithcameron.blueberry": "ブルーベリー",
+  "item.cookingwithcameron.blueberry_seeds": "ブルーベリーの種",
+  "item.cookingwithcameron.avocado": "アボカド",
+  "item.cookingwithcameron.pineapple": "パイナップル",
+  "item.cookingwithcameron.pineapple_seeds": "パイナップルの種",
+  "item.cookingwithcameron.crab_spawn_egg": "カニの産卵卵",
+
+  "item.cookingwithcameron.chef_hat": "シェフハット",
+  "item.cookingwithcameron.chef_suit": "シェフスーツ",
+  "item.cookingwithcameron.chef_pants": "シェフパンツ",
+  "item.cookingwithcameron.chef_boots": "シェフブーツ",
+
+  "block.cookingwithcameron.taperecorder": "テープレコーダー",
+  "block.cookingwithcameron.oven": "オーブン",
+  "block.cookingwithcameron.plate": "皿",
+  "block.cookingwithcameron.toaster": "トースター",
+  "block.cookingwithcameron.fridge": "冷蔵庫",
+  "block.cookingwithcameron.wine_rack": "ワインラック",
+  "block.cookingwithcameron.grape_vine": "グレープのぶどうの木",
+  "block.cookingwithcameron.blueberry_tree": "ブルーベリーの木",
+  "block.cookingwithcameron.pineapple_shrub": "パイナップルの低木",
+
+  "block.cookingwithcameron.taperecorder.tooltip.shift": "TASCAM 32をベースにしたデコレーションテープレコーダー",
+  "block.cookingwithcameron.taperecorder.tooltip": "§eSHIFT§rボタンを使用詳細については",
+  "block.cookingwithcameron.wine_rack.tooltip": "§7ラックは3ブロックにまたがっています",
+  "block.cookingwithcameron.oven.tooltip": "§7燃料は2倍の価値",
+  "block.cookingwithcameron.plate.tooltip": "§7お皿に食べ物を保存する",
+  "block.cookingwithcameron.toaster.tooltip": "§7おいしいトーストを焼こう",
+  "item.cookingwithcameron.pineapple.tooltip": "§7含水率で難燃性を応用!",
+
+  "itemGroup.cookingwithcameron.cooking": "クッキングとキャメロン",
+
+  "cookingwithcameron.container.oven": "オーブン",
+
+  "subtitles.cookingwithcameron.tapesound": "テープを翻す、小さなクリック",
+  "subtitles.cookingwithcameron.beersound": "ビールを飲んだ",
+
+  "advancements.cookingwithcameron.kitchen_knife.title": "チョッピング時間",
+  "advancements.cookingwithcameron.kitchen_knife.description": "包丁をクラフト",
+  "advancements.cookingwithcameron.chef_fit.title": "がんばれシェフ！",
+  "advancements.cookingwithcameron.chef_fit.description": "シェフの衣装を作る"
+}

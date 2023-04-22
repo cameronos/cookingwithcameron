@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "cookingwithcameron:block/wine_rack" },
+    "facing=east": { "model": "cookingwithcameron:block/wine_rack", "y": 90 },
+    "facing=south": { "model": "cookingwithcameron:block/wine_rack", "y": 180 },
+    "facing=west": { "model": "cookingwithcameron:block/wine_rack", "y": 270 }
+  }
+}

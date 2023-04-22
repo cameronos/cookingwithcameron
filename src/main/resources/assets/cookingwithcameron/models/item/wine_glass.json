@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures":{
+    "layer0": "cookingwithcameron:item/wine_glass",
+    "particle": "cookingwithcameron:particle/wine_particle"
+  }
+}

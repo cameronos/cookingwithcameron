@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures":{
+    "layer0": "cookingwithcameron:item/beer",
+    "particle": "cookingwithcameron:particle/beer_particle"
+  }
+}

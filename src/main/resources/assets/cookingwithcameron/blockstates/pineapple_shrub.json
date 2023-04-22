@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "age=0": { "model": "cookingwithcameron:block/pineapple_shrub0" },
+    "age=1": { "model": "cookingwithcameron:block/pineapple_shrub1" },
+    "age=2": { "model": "cookingwithcameron:block/pineapple_shrub2" },
+    "age=3": { "model": "cookingwithcameron:block/pineapple_shrub3" },
+    "age=4": { "model": "cookingwithcameron:block/pineapple_shrub4" },
+    "age=5": { "model": "cookingwithcameron:block/pineapple_shrub5" },
+    "age=6": { "model": "cookingwithcameron:block/pineapple_shrub6" },
+    "age=7": { "model": "cookingwithcameron:block/pineapple_shrub7" }
+  }
+}

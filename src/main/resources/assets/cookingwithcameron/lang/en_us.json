@@ -1,0 +1,60 @@
+{
+  "item.cookingwithcameron.foil": "Foil Wrapper",
+  "item.cookingwithcameron.salt": "Salt",
+  "item.cookingwithcameron.chocolate_bar": "Chocolate Bar",
+  "item.cookingwithcameron.oreo": "Oreo Cookie",
+  "item.cookingwithcameron.kitchen_knife": "Kitchen Knife",
+  "item.cookingwithcameron.wine": "Wine Bottle",
+  "item.cookingwithcameron.wine_glass": "Wine Glass",
+  "item.cookingwithcameron.beer": "Beer Mug",
+  "item.cookingwithcameron.grape": "Grape",
+  "item.cookingwithcameron.grape_seeds": "Grape Seeds",
+  "item.cookingwithcameron.blueberry": "Blueberry",
+  "item.cookingwithcameron.blueberry_seeds": "Blueberry Seeds",
+  "item.cookingwithcameron.avocado": "Avocado",
+  "item.cookingwithcameron.pineapple": "Pineapple",
+  "item.cookingwithcameron.pineapple_seeds": "Pineapple Seeds",
+  "item.cookingwithcameron.crab_spawn_egg": "Crab Spawn Egg",
+
+  "item.cookingwithcameron.chef_hat": "Chef Hat",
+  "item.cookingwithcameron.chef_suit": "Chef Suit",
+  "item.cookingwithcameron.chef_pants": "Chef Pants",
+  "item.cookingwithcameron.chef_boots": "Chef Boots",
+
+  "entity.cookingwithcameron.crab": "Crab",
+
+  "block.cookingwithcameron.taperecorder": "Tape Recorder",
+  "block.cookingwithcameron.oven": "Oven",
+  "block.cookingwithcameron.plate": "Plate",
+  "block.cookingwithcameron.toaster": "Toaster",
+  "block.cookingwithcameron.fridge": "Fridge",
+  "block.cookingwithcameron.wine_rack": "Wine Rack",
+  "block.cookingwithcameron.distillery": "Distillery",
+
+  "block.cookingwithcameron.grape_vine": "Grape Vine",
+  "block.cookingwithcameron.blueberry_tree": "Blueberry Tree",
+  "block.cookingwithcameron.pineapple_shrub": "Pineapple Shrub",
+
+  "block.cookingwithcameron.taperecorder.tooltip.shift": "Decorative tape recorder based off TASCAM 32",
+  "block.cookingwithcameron.taperecorder.tooltip": "Press §eSHIFT§r for more Information",
+  "block.cookingwithcameron.wine_rack.tooltip": "§7Rack spans 3 blocks",
+  "block.cookingwithcameron.oven.tooltip": "§7Fuel worth twice as long",
+  "block.cookingwithcameron.plate.tooltip": "§7Store food on your plate",
+  "block.cookingwithcameron.toaster.tooltip": "§7Toast up some delicious toast",
+  "block.cookingwithcameron.distillery.tooltip": "§7Distills wheat, processes into beer",
+
+  "item.cookingwithcameron.pineapple.tooltip": "§7Water content provides fire resistance!",
+
+  "itemGroup.cookingwithcameron.cooking": "Cooking with Cameron",
+
+  "cookingwithcameron.container.oven": "Oven",
+  "cookingwithcameron.container.distillery": "Distillery",
+
+  "subtitles.cookingwithcameron.tapesound": "Reverse of tape and a small click",
+  "subtitles.cookingwithcameron.beersound": "Drinking a beer",
+
+  "advancements.cookingwithcameron.kitchen_knife.title": "Chopping Time",
+  "advancements.cookingwithcameron.kitchen_knife.description": "Craft a kitchen knife",
+  "advancements.cookingwithcameron.chef_fit.title": "Look Your Best",
+  "advancements.cookingwithcameron.chef_fit.description": "Craft a full chef outfit"
+}

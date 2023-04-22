@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D#D",
+    "#D#",
+    "D#D"
+  ],
+  "key": {
+    "#": {
+      "item": "cookingwithcameron:wine"
+    },
+    "D": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "cookingwithcameron:wine_rack"
+  }
+}

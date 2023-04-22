@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G G",
+    "GWG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "W": {
+      "item": "cookingwithcameron:grape"
+    }
+  },
+  "result": {
+    "item": "cookingwithcameron:wine"
+  }
+}

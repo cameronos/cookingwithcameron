@@ -1,0 +1,44 @@
+{
+  "tapesound": {
+    "subtitle": "subtitles.cookingwithcameron.tapesound",
+    "sounds": [
+      "cookingwithcameron:tapesound"
+    ]
+  },
+  "beersound": {
+    "subtitle": "subtitles.cookingwithcameron.beersound",
+    "sounds": [
+      "cookingwithcameron:beersound"
+    ]
+  },
+  "platesound": {
+    "subtitle": "subtitles.cookingwithcameron.platesound",
+    "sounds": [
+      "cookingwithcameron:platesound"
+    ]
+  },
+  "distillersound": {
+    "subtitle": "subtitles.cookingwithcameron.distillersound",
+    "sounds": [
+      "cookingwithcameron:distillersound"
+    ]
+  },
+  "crabambient": {
+    "subtitle": "subtitles.cookingwithcameron.crabambient",
+    "sounds": [
+      "cookingwithcameron:crabambient"
+    ]
+  },
+  "crabhurt": {
+    "subtitle": "subtitles.cookingwithcameron.crabhurt",
+    "sounds": [
+      "cookingwithcameron:crabhurt"
+    ]
+  },
+  "crabdeath": {
+    "subtitle": "subtitles.cookingwithcameron.crabdeath",
+    "sounds": [
+      "cookingwithcameron:crabdeath"
+    ]
+  }
+}

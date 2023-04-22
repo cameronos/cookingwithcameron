@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "cookingwithcameron:block/taperecorder" },
+    "facing=east": { "model": "cookingwithcameron:block/taperecorder", "y": 90 },
+    "facing=south": { "model": "cookingwithcameron:block/taperecorder", "y": 180 },
+    "facing=west": { "model": "cookingwithcameron:block/taperecorder", "y": 270 }
+  }
+}

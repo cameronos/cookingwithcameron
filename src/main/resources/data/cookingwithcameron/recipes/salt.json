@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "salt",
+  "ingredient": {
+    "item": "minecraft:diorite"
+  },
+  "result": "cookingwithcameron:salt",
+  "experience": 0.5,
+  "cookingtime": 150
+}

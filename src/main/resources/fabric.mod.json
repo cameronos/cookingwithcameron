@@ -4,17 +4,17 @@
   "version": "${version}",
 
   "name": "Cooking with Cameron",
-  "description": "Adds a plethora of new food and animals into the game to eat and fulfill your taste-buds.",
+  "description": "Adds a plethora of new food, crops, and kitchen furniture into the game to eat and fulfill your taste-buds. English and Japanese translations available!",
   "authors": [
     "CameronOS"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "http://cookingwithcameron.cameronos.github.io",
+    "sources": "https://github.com/cameronos/cookingwithcameron"
   },
 
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/cookingwithcameron/ICON.png",
 
   "environment": "*",
   "entrypoints": {

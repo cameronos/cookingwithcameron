@@ -1,0 +1,14 @@
+{
+  "type": "cookingwithcameron:distillery",
+  "ingredients": [
+    {
+      "item": "cookingwithcameron:grape"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "output": {
+    "item": "cookingwithcameron:wine_glass"
+  }
+}

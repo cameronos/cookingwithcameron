@@ -1,0 +1,51 @@
+{
+  "parent": "cookingwithcameron:kitchen_knife",
+  "display": {
+    "icon": {
+      "item": "cookingwithcameron:chef_suit",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "advancements.cookingwithcameron.chef_fit.title"
+    },
+    "description": {
+      "translate": "advancements.cookingwithcameron.chef_fit.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "netherite_armor": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cookingwithcameron:chef_hat"
+            ]
+          },
+          {
+            "items": [
+              "cookingwithcameron:chef_suit"
+            ]
+          },
+          {
+            "items": [
+              "cookingwithcameron:chef_pants"
+            ]
+          },
+          {
+            "items": [
+              "cookingwithcameron:chef_boots"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
